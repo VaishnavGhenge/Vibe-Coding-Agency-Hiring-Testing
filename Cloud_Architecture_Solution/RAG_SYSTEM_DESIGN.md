@@ -1,6 +1,6 @@
 # Enterprise RAG Knowledge Management System - Architecture Design
 
-## 1. RAG ARCHITECTURE DIAGRAM (REVISED)
+## 1. RAG ARCHITECTURE DIAGRAM
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
